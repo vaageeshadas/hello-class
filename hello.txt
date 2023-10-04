@@ -1,0 +1,3 @@
+hello
+today is 10/4
+goodbye
